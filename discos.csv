@@ -1,59 +1,59 @@
-index,Título,duração,Tipo,Formação,Lançamento,Selo,Show
-1,Shades of Deep Purple,64,Estúdio,1,1968-07-17,Parlophone,
-2,The Book of Taliesyn,65,Estúdio,1,1968-10-30,Harvest,
-3,Deep Purple,56,Estúdio,1,1969-06-21,Harvest,
-4,Concerto for Group and Orchestra,91,Ao vivo,2,1969-12-15,Harvest,114
-5,Deep Purple in Rock,78,Estúdio,2,1970-06-03,Harvest,
-6,Fireball,78,Estúdio,2,1971-07-09,Harvest,
-7,Machine Head,96,Estúdio,2,1972-03-25,Purple Records,
-8,Made in Japan,98,Ao vivo,2,1972-12-15,Purple Records,429
-9,Who Do We Think We Are,72,Estúdio,2,1973-01-13,Purple Records,
-10,Burn,72,Estúdio,3,1974-02-15,Purple Records,
-11,Stormbringer,96,Estúdio,3,1974-11-16,Purple Records,
-12,Come Taste the Band,90,Estúdio,4,1975-10-10,Purple Records,
-13,Made in Europe,45,Ao vivo,3,1976-10-15,Purple Records,674
-14,Last Concert in Japan,44,Ao vivo,4,1977-03-15,Purple Records,691
-15,Deep Purple in Concert,127,Ao vivo,2,1980-12-15,Harvest,391
-16,Live in London,94,Ao vivo,3,1982-08-15,Harvest,627
-17,Perfect Strangers,54,Estúdio,5,1984-10-29,Polydor,
-18,The House of Blue Light,46,Estúdio,5,1987-01-12,Polydor,
-19,Nobody's Perfect,92,Ao vivo,5,1988-06-15,Polydor,873
-20,Scandinavian Nights,116,Ao vivo,2,1988-10-15,Conoisseur Collection,257
-21,Slaves and Masters,55,Estúdio,6,1990-10-05,RCA,
-22,In the Absence of Pink,100,Ao vivo,5,1991-04-15,Conoisseur Collection,800
-23,Gemini Suite Live,44,Ao vivo,2,1993-06-15,RPM,233
-24,The Battle Rages On...,49,Estúdio,7,1993-07-02,BMG,
-25,Come Hell or High Water,77,Ao vivo,7,1994-11-07,BMG/RCA,1019
-26,King Biscuit Flower Hour Presents: Deep Purple in Concert,120,Ao vivo,4,1995-06-15,King Biscuit Flower Hour,720
-27,Purpendicular,62,Estúdio,9,1996-02-17,BMG,
-28,California Jamming,73,Ao vivo,3,1996-06-15,Eagle,606
-29,Live at the Olympia '96,122,Ao vivo,9,1997-06-09,EMI,1121
-30,Abandon,56,Estúdio,9,1998-06-02,EMI,
-31,Total Abandon: Australia '99,116,Ao vivo,9,1999-09-15,Eagle,1323
-32,In Concert with The London Symphony Orchestra,125,Ao vivo,9,2000-02-08,Eagle,1361
-34,Live in Paris 1975,128,Ao vivo,3,2001-04-15,Purple Records/BMG,676
-35,This Time Around: Live in Tokyo,125,Ao vivo,4,2001-09-15,Purple Records/BMG,691
-36,Bananas,51,Estúdio,10,2003-09-09,EMI,
-37,Space Vol 1 & 2,71,Ao vivo,2,2004-09-15,Purple Records/BMG,221
-38,Perks and Tit,50,Ao vivo,3,2004-09-15,Purple Records/BMG,607
-39,Rapture of the Deep,50,Ao vivo,10,2005-11-01,Edel,
-40,Live at Montreux 1996,74,Ao vivo,9,2006-05-15,Eagle,1136
-41,Live in Montreux 69,90,Ao vivo,2,2006-08-15,Sonic Zoom,116
-42,Live in Europe 1993,124,Ao vivo,7,2006-11-07,Sony/BMG,1002
-43,Live at Montreux 2006,67,Ao vivo,10,2007-06-12,Eagle,1376
-44,Phoenix Rising,70,Ao vivo,4,2011-05-11,Edel,691
-45,BBC Sessions 1968–1970,98,Estúdio,2,2011-11-07,EMI,
-46,Live at Montreux 2011,70,Ao vivo,10,2011-11-07,Eagle,2266
-47,Copenhagen 1972,123,Ao vivo,2,2013-04-15,earMusic,388
-48,Now What?!,60,Estúdio,10,2013-04-26,earMusic,
-49,Perfect Strangers Live,115,Ao vivo,5,2013-06-15,Eagle,737
-50,Stockholm 1970,153,Ao vivo,2,2014-03-15,earMusic,257
-51,Graz 1975,79,Ao vivo,3,2014-09-15,earMusic,674
-52,Long Beach 1971,70,Ao vivo,2,2015-02-15,earMusic,672
-53,From the Setting Sun... (In Wacken),91,Ao vivo,10,2015-04-15,Edel,2372
-54,Long Beach 1976,124,Ao vivo,4,2016-05-15,Edel,720
-55,Infinite,81,Estúdio,10,2017-04-07,Edel,
-56,"The Infinite Live Recordings, Vol. 1",90,Ao vivo,10,2017-11-17,earMusic,2519
-57,Live in Newcastle 2001,115,Ao vivo,9,2019-07-05,earMusic,1415
-58,Live in Rome 2013,108,Ao vivo,10,2019-12-06,earMusic,2367
-59,Whoosh!,,Estúdio,10,2020-08-07,earMusic,
+"nr","Titulo","Duracao","Tipo","Formacao","Lancamento","Selo","Show"
+1,"Shades of Deep Purple",64,"Estúdio",1,"1968-07-17","Parlophone",
+2,"The Book of Taliesyn",65,"Estúdio",1,"1968-10-30","Harvest",
+3,"Deep Purple",56,"Estúdio",1,"1969-06-21","Harvest",
+4,"Concerto for Group and Orchestra",91,"Ao vivo",2,"1969-12-15","Harvest",114
+5,"Deep Purple in Rock",78,"Estúdio",2,"1970-06-03","Harvest",
+6,"Fireball",78,"Estúdio",2,"1971-07-09","Harvest",
+7,"Machine Head",96,"Estúdio",2,"1972-03-25","Purple Records",
+8,"Made in Japan",98,"Ao vivo",2,"1972-12-15","Purple Records",429
+9,"Who Do We Think We Are",72,"Estúdio",2,"1973-01-13","Purple Records",
+10,"Burn",72,"Estúdio",3,"1974-02-15","Purple Records",
+11,"Stormbringer",96,"Estúdio",3,"1974-11-16","Purple Records",
+12,"Come Taste the Band",90,"Estúdio",4,"1975-10-10","Purple Records",
+13,"Made in Europe",45,"Ao vivo",3,"1976-10-15","Purple Records",674
+14,"Last Concert in Japan",44,"Ao vivo",4,"1977-03-15","Purple Records",691
+15,"Deep Purple in Concert",127,"Ao vivo",2,"1980-12-15","Harvest",391
+16,"Live in London",94,"Ao vivo",3,"1982-08-15","Harvest",627
+17,"Perfect Strangers",54,"Estúdio",5,"1984-10-29","Polydor",
+18,"The House of Blue Light",46,"Estúdio",5,"1987-01-12","Polydor",
+19,"Nobody's Perfect",92,"Ao vivo",5,"1988-06-15","Polydor",873
+20,"Scandinavian Nights",116,"Ao vivo",2,"1988-10-15","Conoisseur Collection",257
+21,"Slaves and Masters",55,"Estúdio",6,"1990-10-05","RCA",
+22,"In the Absence of Pink",100,"Ao vivo",5,"1991-04-15","Conoisseur Collection",800
+23,"Gemini Suite Live",44,"Ao vivo",2,"1993-06-15","RPM",233
+24,"The Battle Rages On...",49,"Estúdio",7,"1993-07-02","BMG",
+25,"Come Hell or High Water",77,"Ao vivo",7,"1994-11-07","BMG/RCA",1019
+26,"King Biscuit Flower Hour Presents: Deep Purple in Concert",120,"Ao vivo",4,"1995-06-15","King Biscuit Flower Hour",720
+27,"Purpendicular",62,"Estúdio",9,"1996-02-17","BMG",
+28,"California Jamming",73,"Ao vivo",3,"1996-06-15","Eagle",606
+29,"Live at the Olympia '96",122,"Ao vivo",9,"1997-06-09","EMI",1121
+30,"Abandon",56,"Estúdio",9,"1998-06-02","EMI",
+31,"Total Abandon: Australia '99",116,"Ao vivo",9,"1999-09-15","Eagle",1323
+32,"In Concert with The London Symphony Orchestra",125,"Ao vivo",9,"2000-02-08","Eagle",1361
+34,"Live in Paris 1975",128,"Ao vivo",3,"2001-04-15","Purple Records/BMG",676
+35,"This Time Around: Live in Tokyo",125,"Ao vivo",4,"2001-09-15","Purple Records/BMG",691
+36,"Bananas",51,"Estúdio",10,"2003-09-09","EMI",
+37,"Space Vol 1 & 2",71,"Ao vivo",2,"2004-09-15","Purple Records/BMG",221
+38,"Perks and Tit",50,"Ao vivo",3,"2004-09-15","Purple Records/BMG",607
+39,"Rapture of the Deep",50,"Ao vivo",10,"2005-11-01","Edel",
+40,"Live at Montreux 1996",74,"Ao vivo",9,"2006-05-15","Eagle",1136
+41,"Live in Montreux 69",90,"Ao vivo",2,"2006-08-15","Sonic Zoom",116
+42,"Live in Europe 1993",124,"Ao vivo",7,"2006-11-07","Sony/BMG",1002
+43,"Live at Montreux 2006",67,"Ao vivo",10,"2007-06-12","Eagle",1376
+44,"Phoenix Rising",70,"Ao vivo",4,"2011-05-11","Edel",691
+45,"BBC Sessions 1968–1970",98,"Estúdio",2,"2011-11-07","EMI",
+46,"Live at Montreux 2011",70,"Ao vivo",10,"2011-11-07","Eagle",2266
+47,"Copenhagen 1972",123,"Ao vivo",2,"2013-04-15","earMusic",388
+48,"Now What?!",60,"Estúdio",10,"2013-04-26","earMusic",
+49,"Perfect Strangers Live",115,"Ao vivo",5,"2013-06-15","Eagle",737
+50,"Stockholm 1970",153,"Ao vivo",2,"2014-03-15","earMusic",257
+51,"Graz 1975",79,"Ao vivo",3,"2014-09-15","earMusic",674
+52,"Long Beach 1971",70,"Ao vivo",2,"2015-02-15","earMusic",672
+53,"From the Setting Sun... (In Wacken)",91,"Ao vivo",10,"2015-04-15","Edel",2372
+54,"Long Beach 1976",124,"Ao vivo",4,"2016-05-15","Edel",720
+55,"Infinite",81,"Estúdio",10,"2017-04-07","Edel",
+56,"The Infinite Live Recordings, Vol. 1",90,"Ao vivo",10,"2017-11-17","earMusic",2519
+57,"Live in Newcastle 2001",115,"Ao vivo",9,"2019-07-05","earMusic",1415
+58,"Live in Rome 2013",108,"Ao vivo",10,"2019-12-06","earMusic",2367
+59,"Whoosh!",,"Estúdio",10,"2020-08-07","earMusic",
